@@ -1,4 +1,5 @@
 架构师，全栈开发者，技术极客，Gopher。
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shirdonl&theme=dark)](https://git.io/streak-stats)
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -13,4 +14,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shirdonl&theme=dark)](https://git.io/streak-stats)
+
