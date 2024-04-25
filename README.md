@@ -1,4 +1,4 @@
-架构师，全栈开发者，技术极客，Gopher。
+Architect, full stack developer, technology geek, Gopher.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shirdonl&theme=dark)](https://git.io/streak-stats)
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
